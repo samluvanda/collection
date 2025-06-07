@@ -1,0 +1,20 @@
+# Composer vendor directory
+/vendor/
+
+# PHPUnit
+.phpunit.result.cache
+
+# Logs and debug files
+*.log
+
+# IDE and editor folders
+/.idea/
+/.vscode/
+
+/*.swp
+.DS_Store
+Thumbs.db
+
+# OS generated files
+ehthumbs.db
+Icon?
